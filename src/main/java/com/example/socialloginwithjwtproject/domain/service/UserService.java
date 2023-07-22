@@ -1,9 +1,9 @@
-package com.example.socialloginwithjwtproject.service;
+package com.example.socialloginwithjwtproject.domain.service;
 
-import com.example.socialloginwithjwtproject.contorller.dto.UserSignUpDto;
-import com.example.socialloginwithjwtproject.domain.Role;
-import com.example.socialloginwithjwtproject.domain.User;
-import com.example.socialloginwithjwtproject.domain.UserRepository;
+import com.example.socialloginwithjwtproject.domain.contorller.dto.UserSignUpDto;
+import com.example.socialloginwithjwtproject.domain.persistence.Role;
+import com.example.socialloginwithjwtproject.domain.persistence.User;
+import com.example.socialloginwithjwtproject.domain.persistence.UserRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;

@@ -1,9 +1,9 @@
-package com.example.socialloginwithjwtproject.jwt.filter;
+package com.example.socialloginwithjwtproject.global.jwt.filter;
 
-import com.example.socialloginwithjwtproject.domain.User;
-import com.example.socialloginwithjwtproject.domain.UserRepository;
-import com.example.socialloginwithjwtproject.jwt.service.JwtService;
-import com.example.socialloginwithjwtproject.jwt.util.PasswordUtil;
+import com.example.socialloginwithjwtproject.domain.persistence.User;
+import com.example.socialloginwithjwtproject.domain.persistence.UserRepository;
+import com.example.socialloginwithjwtproject.global.jwt.service.JwtService;
+import com.example.socialloginwithjwtproject.global.jwt.util.PasswordUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

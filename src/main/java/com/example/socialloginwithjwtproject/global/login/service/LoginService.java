@@ -1,7 +1,7 @@
-package com.example.socialloginwithjwtproject.login.service;
+package com.example.socialloginwithjwtproject.global.login.service;
 
-import com.example.socialloginwithjwtproject.domain.User;
-import com.example.socialloginwithjwtproject.domain.UserRepository;
+import com.example.socialloginwithjwtproject.domain.persistence.User;
+import com.example.socialloginwithjwtproject.domain.persistence.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

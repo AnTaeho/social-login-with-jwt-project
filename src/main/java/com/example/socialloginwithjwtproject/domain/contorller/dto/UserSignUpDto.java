@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.contorller.dto;
+package com.example.socialloginwithjwtproject.domain.contorller.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

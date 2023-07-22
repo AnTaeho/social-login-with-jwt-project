@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.domain;
+package com.example.socialloginwithjwtproject.domain.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,7 +1,7 @@
-package com.example.socialloginwithjwtproject.login.handler;
+package com.example.socialloginwithjwtproject.global.login.handler;
 
-import com.example.socialloginwithjwtproject.domain.UserRepository;
-import com.example.socialloginwithjwtproject.jwt.service.JwtService;
+import com.example.socialloginwithjwtproject.domain.persistence.UserRepository;
+import com.example.socialloginwithjwtproject.global.jwt.service.JwtService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;

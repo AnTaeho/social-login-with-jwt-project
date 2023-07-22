@@ -1,7 +1,7 @@
-package com.example.socialloginwithjwtproject.contorller;
+package com.example.socialloginwithjwtproject.domain.contorller;
 
-import com.example.socialloginwithjwtproject.contorller.dto.UserSignUpDto;
-import com.example.socialloginwithjwtproject.service.UserService;
+import com.example.socialloginwithjwtproject.domain.contorller.dto.UserSignUpDto;
+import com.example.socialloginwithjwtproject.domain.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

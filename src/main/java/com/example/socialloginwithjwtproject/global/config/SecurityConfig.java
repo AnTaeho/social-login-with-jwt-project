@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.config;
+package com.example.socialloginwithjwtproject.global.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

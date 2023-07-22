@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.jwt.util;
+package com.example.socialloginwithjwtproject.global.jwt.util;
 
 import java.util.Random;
 

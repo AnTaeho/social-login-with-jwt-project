@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.login.handler;
+package com.example.socialloginwithjwtproject.global.login.handler;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

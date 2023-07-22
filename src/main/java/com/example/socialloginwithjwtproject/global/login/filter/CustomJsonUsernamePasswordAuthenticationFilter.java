@@ -1,4 +1,4 @@
-package com.example.socialloginwithjwtproject.login.filter;
+package com.example.socialloginwithjwtproject.global.login.filter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.http.HttpServletRequest;
